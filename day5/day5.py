@@ -1,5 +1,3 @@
-import re
-
 stack_dict = {
     "1": list('QWPSZRHD'),
     "2": list('VBRWQHF'),
